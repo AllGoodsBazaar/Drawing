@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Drawing/static/css/main.14aded6a.css",
+    "main.js": "/Drawing/static/js/main.eaad2af8.js",
+    "static/media/desc.jpg": "/Drawing/static/media/desc.7e5722c35a4b3d16b4a4.jpg",
+    "static/media/mainPhoto.png": "/Drawing/static/media/mainPhoto.0d086434742f484116b9.png",
+    "static/media/red.jpg": "/Drawing/static/media/red.93e2df95aeff0f8ddfed.jpg",
+    "static/media/car.jpg": "/Drawing/static/media/car.4c32873f52a20efa9158.jpg",
+    "static/media/img.jpg": "/Drawing/static/media/img.55fd395e73f4cb38b021.jpg",
+    "static/media/brelokS.jpg": "/Drawing/static/media/brelokS.aa26ff24e88a5d25fc27.jpg",
+    "static/media/lampa.webp": "/Drawing/static/media/lampa.5bd6f809d6b56c3237e2.webp",
+    "static/media/brelokT.jpg": "/Drawing/static/media/brelokT.a1da5bc00ab3236dbcfd.jpg",
+    "static/media/secDesc.jpg": "/Drawing/static/media/secDesc.110323567d8dfe92ea47.jpg",
+    "static/media/delivery.jpg": "/Drawing/static/media/delivery.caaab3246a469c4d0e41.jpg",
+    "static/media/fonar-ruchnoj.jpg": "/Drawing/static/media/fonar-ruchnoj.76aa82c24eed0494dfd0.jpg",
+    "static/media/fonarik-brelok.jpg": "/Drawing/static/media/fonarik-brelok.299f872099dbb73fbed1.jpg",
+    "index.html": "/Drawing/index.html",
+    "static/media/iconClose.svg": "/Drawing/static/media/iconClose.f3cbdd58dc25ca7cbb3d242106b56fb9.svg",
+    "main.14aded6a.css.map": "/Drawing/static/css/main.14aded6a.css.map",
+    "main.eaad2af8.js.map": "/Drawing/static/js/main.eaad2af8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14aded6a.css",
+    "static/js/main.eaad2af8.js"
+  ]
+}
