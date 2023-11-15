@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Drawing/static/css/main.14aded6a.css",
-    "main.js": "/Drawing/static/js/main.8be57a6b.js",
+    "main.js": "/Drawing/static/js/main.4eb86376.js",
+    "static/media/secDesc.jpg": "/Drawing/static/media/secDesc.10df6e7af32d402730e9.jpg",
+    "static/media/mainPhoto.png": "/Drawing/static/media/mainPhoto.0ddf318bd130339b8ac6.png",
     "static/media/benefits.png": "/Drawing/static/media/benefits.37bf76eb67ddd5ba44db.png",
-    "static/media/mainPhoto.png": "/Drawing/static/media/mainPhoto.c20ff7cc73b86e5f131f.png",
     "static/media/car.jpg": "/Drawing/static/media/car.a258e5b4c3dab3436702.jpg",
     "static/media/complete.png": "/Drawing/static/media/complete.9bc91a5b0a6cf8fa0c32.png",
     "static/media/red.jpg": "/Drawing/static/media/red.e7c812010f292f18d2b7.jpg",
     "static/media/desc.jpg": "/Drawing/static/media/desc.8fd22a700750ac8e4f9a.jpg",
-    "static/media/secDesc.jpg": "/Drawing/static/media/secDesc.ce8cc6749eb799774580.jpg",
     "static/media/brelokS.jpg": "/Drawing/static/media/brelokS.aa26ff24e88a5d25fc27.jpg",
     "static/media/lampa.webp": "/Drawing/static/media/lampa.5bd6f809d6b56c3237e2.webp",
     "static/media/brelokT.jpg": "/Drawing/static/media/brelokT.a1da5bc00ab3236dbcfd.jpg",
@@ -17,10 +17,10 @@
     "index.html": "/Drawing/index.html",
     "static/media/iconClose.svg": "/Drawing/static/media/iconClose.f3cbdd58dc25ca7cbb3d242106b56fb9.svg",
     "main.14aded6a.css.map": "/Drawing/static/css/main.14aded6a.css.map",
-    "main.8be57a6b.js.map": "/Drawing/static/js/main.8be57a6b.js.map"
+    "main.4eb86376.js.map": "/Drawing/static/js/main.4eb86376.js.map"
   },
   "entrypoints": [
     "static/css/main.14aded6a.css",
-    "static/js/main.8be57a6b.js"
+    "static/js/main.4eb86376.js"
   ]
 }
